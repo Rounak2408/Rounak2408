@@ -53,38 +53,6 @@ I'm a **Computer Science student** at **Marwadi University**, passionate about b
 
 ---
 
-## 🏆 Featured Projects
-
-### 🔍 Lost & Found Management System
-**Smart platform for tracking lost and found items with real-time updates**
-- Built with Next.js, React, TypeScript, Tailwind CSS
-- Integrated Supabase for real-time database
-- User authentication & authorization system
-- [Explore →](https://github.com/Rounak2408/lost-and-found)
-
-### 💰 Budget Management Application  
-**Intelligent expense tracker with analytics and insights**
-- React frontend with TypeScript
-- Firebase backend & authentication
-- Visual charts & expense breakdown
-- [Explore →](https://github.com/Rounak2408/budget-management)
-
-### 🏦 Banking Management System
-**Advanced Java-based banking application**
-- OOP principles & design patterns
-- DBMS integration
-- Transaction management
-- [Explore →](https://github.com/Rounak2408/banking-system)
-
-### ✅ Task Manager with AI Assistance
-**Productivity tool with smart task prioritization**
-- Next.js & TypeScript
-- Node.js backend
-- AI-powered suggestions
-- [Explore →](https://github.com/Rounak2408/task-manager)
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
