@@ -63,6 +63,21 @@ I'm a **Computer Science student** at **Marwadi University**, passionate about b
 
 </div>
 
+## 💪 Language Proficiency
+
+<div align="center">
+
+| Language | Proficiency | Usage |
+|----------|-------------|-------|
+| **TypeScript** | ⭐⭐⭐⭐⭐ | 60% - Primary Language |
+| **JavaScript** | ⭐⭐⭐⭐⭐ | 25% - Daily Use |
+| **Java** | ⭐⭐⭐⭐ | 7% - Academic |
+| **SQL** | ⭐⭐⭐⭐ | 5% - Database Management |
+| **Python** | ⭐⭐⭐ | 2% - Scripting & Automation |
+| **HTML/CSS** | ⭐⭐⭐⭐ | 1% - Web Markup |
+
+</div>
+
 ---
 
 ## 🎓 Education & Certifications
